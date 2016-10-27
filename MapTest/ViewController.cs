@@ -11,6 +11,11 @@ namespace MapTest
 			// Note: this .ctor should not contain any initialization logic.
 		}
 
+		public override void ViewWillAppear(bool animated)
+		{
+			base.ViewWillAppear(animated);
+		}
+
 		public override void ViewDidLoad()
 		{
 			base.ViewDidLoad();
