@@ -2,9 +2,9 @@
 # [first argument, ignore] # /Library/Frameworks/Xamarin.iOS.framework/Versions/10.0.1.10/lib/mtouch/mtouch.exe
 /Library/Frameworks/Xamarin.iOS.framework/Versions/10.0.1.10/lib/mtouch/mtouch.exe \
 	--cache \
-	/Users/jordanharris/Projects/MapTest/MapTest/obj/iPhoneSimulator/Debug/mtouch-cache \
+	/Users/jordanharris/MapTest/MapTest/obj/iPhoneSimulator/Debug/mtouch-cache \
 	--sim \
-	/Users/jordanharris/Projects/MapTest/MapTest/bin/iPhoneSimulator/Debug/MapTest.app \
+	/Users/jordanharris/MapTest/MapTest/bin/iPhoneSimulator/Debug/MapTest.app \
 	--executable \
 	MapTest \
 	--fastdev \
@@ -20,7 +20,7 @@
 	--tls-provider=default \
 	--abi=i386 \
 	--symbollist \
-	/Users/jordanharris/Projects/MapTest/MapTest/obj/iPhoneSimulator/Debug/mtouch-symbols.list \
+	/Users/jordanharris/MapTest/MapTest/obj/iPhoneSimulator/Debug/mtouch-symbols.list \
 	--dsym=no \
 	-r \
 	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.dll \
@@ -34,4 +34,4 @@
 	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/mscorlib.dll \
 	--target-framework \
 	"Xamarin.iOS,v1.0" \
-	/Users/jordanharris/Projects/MapTest/MapTest/bin/iPhoneSimulator/Debug//MapTest.exe \
+	/Users/jordanharris/MapTest/MapTest/bin/iPhoneSimulator/Debug//MapTest.exe \

@@ -6,7 +6,7 @@
 	<dict>
 		<key>output-files</key>
 		<array>
-			<string>/Users/jordanharris/Projects/MapTest/MapTest/obj/iPhoneSimulator/Debug/actool/partial-info.plist</string>
+			<string>/Users/jordanharris/MapTest/MapTest/obj/iPhoneSimulator/Debug/actool/partial-info.plist</string>
 		</array>
 	</dict>
 </dict>
